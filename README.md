@@ -1,43 +1,25 @@
-## Hi there 👋
-
-<!--
-**tanviralam9110/tanviralam9110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 # Hi, I'm Md Tanvir Alam 👋
 
 ### Java Backend Developer | Spring Boot | REST APIs | SQL
 
-I'm a Java Backend Developer with  experience building backend
-applications and REST APIs using Java, Spring Boot, Hibernate/JPA and SQL.
+Java Backend Developer with  experience building backend
+applications and REST APIs using Java, Spring Boot, Hibernate/JPA, and SQL.
 
-I enjoy building clean, scalable and maintainable applications and
-working with backend technologies, databases and API integrations.
+I enjoy building clean, scalable, and maintainable applications with a
+strong focus on backend development, APIs, databases, and system integration.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💻 Java Backend Developer
+- 💻 Java Backend Developer with  experience
 - ☕ Strong focus on Java and Spring Boot
 - 🔗 Experience building REST APIs and backend services
-- 🗄️ Working with PostgreSQL and MySQL
-- 🔐 Experience with Spring Security and JWT authentication
-- 🧩 Interested in Microservices and distributed applications
-- 🐳 Working with Docker and cloud technologies
-- 🧪 Familiar with JUnit, Mockito and Postman
+- 🗄️ PostgreSQL and MySQL
+- 🔐 Spring Security and JWT authentication
+- 🧩 Microservices and distributed applications
+- 🐳 Docker and cloud technologies
+- 🧪 JUnit, Mockito, and Postman
 - 🚀 Currently open to Java Backend Developer opportunities
 
 ---
@@ -56,7 +38,7 @@ PostgreSQL • MySQL
 ### Messaging & Cloud
 Kafka • Docker • AWS
 
-### Testing & Development Tools
+### Testing & Tools
 JUnit • Mockito • Postman • Maven • Git • GitHub • Jenkins • Jira
 
 ### Frontend
@@ -68,8 +50,8 @@ React.js • JavaScript • HTML5 • CSS3
 
 ### 💰 FinTrack — Personal Finance & Expense Management Platform
 
-A full-stack personal finance application designed to manage income,
-expenses, transactions, budgets and financial reports.
+A full-stack personal finance application for managing income, expenses,
+transactions, budgets, financial reports, and notifications.
 
 **Backend**
 - Java 21
@@ -95,50 +77,43 @@ expenses, transactions, budgets and financial reports.
 - Notifications
 - File upload
 
-🔗 Backend:  
+🔗 **Backend:**  
 https://github.com/tanviralam9110/Personal-Finance-Manager-Backend
 
-🔗 Frontend:  
+🔗 **Frontend:**  
 https://github.com/tanviralam9110/Personal-Finance-Manager-Frontend
 
 ---
 
-### 🤖 Java Job Recruiter Automation
+### 🤖 Job Recruiter Automation
 
-A Java-based automation project designed to simplify job opportunity
-processing, recruiter data handling and email workflows.
+An automation project for processing job opportunities, recruiter
+information, and email workflows.
 
-**Technologies:** Java • Selenium • Gmail API • Excel
+**Technologies:** Python • Selenium • Gmail API • Excel
 
-🔗 Repository:  
+🔗 **Repository:**  
 https://github.com/tanviralam9110/java-job-recruiter-automation
 
 ---
 
-## 📌 What I'm Currently Working On
+## 📌 Currently Learning & Improving
 
-- Building and improving Java Spring Boot applications
-- Developing REST APIs and backend services
-- Improving Microservices knowledge
-- Learning more about Docker, AWS and Kafka
-- Improving application testing with JUnit and Mockito
-
----
-
-## 📊 GitHub
-
-I use GitHub to build, maintain and document my projects while continuously
-improving my backend development skills.
+- Spring Boot and Microservices
+- REST API development
+- Docker and AWS
+- Kafka
+- JUnit and Mockito
+- Backend system design
 
 ---
 
 ## 📫 Connect With Me
 
-
-**Email**  
+📧 **Email:**  
 tanviralam3524@gmail.com
 
-**GitHub**  
+💻 **GitHub:**  
 https://github.com/tanviralam9110
 
 ---
