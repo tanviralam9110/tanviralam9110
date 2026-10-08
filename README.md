@@ -97,17 +97,6 @@ https://github.com/tanviralam9110/java-job-recruiter-automation
 
 ---
 
-## 📌 Currently Learning & Improving
-
-- Spring Boot and Microservices
-- REST API development
-- Docker and AWS
-- Kafka
-- JUnit and Mockito
-- Backend system design
-
----
-
 ## 📫 Connect With Me
 
 📧 **Email:**  
